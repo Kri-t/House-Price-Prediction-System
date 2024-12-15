@@ -1,4 +1,4 @@
-# Real Estate Price Prediction Website
+# Real Estate Price Prediction System
 
 ## This project demonstrates the step-by-step process of building a Real Estate Price Prediction Website. It combines machine learning, backend development, and a responsive frontend interface.
 
