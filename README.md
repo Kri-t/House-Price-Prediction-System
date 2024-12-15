@@ -13,9 +13,11 @@ Key Highlights:
 	•	Dimensionality reduction.
 	•	Hyperparameter tuning using GridSearchCV.
 	•	Model evaluation with k-fold cross-validation.
+ 
 	2.	Backend Development:
 	•	I created a Python Flask server to serve HTTP requests.
 	•	The server integrates the trained model and handles API requests for price predictions.
+ 
 	3.	Frontend Interface:
 	•	The user interface was developed using HTML, CSS, and JavaScript.
 	•	Users can input features like square footage, number of bedrooms, etc., and receive real-time price predictions via the Flask API.
