@@ -1,4 +1,4 @@
-#Real Estate Price Prediction Website
+Real Estate Price Prediction Website
 
 This project showcases a step-by-step process I followed to build a Real Estate Price Prediction Website. The project combines machine learning, backend development, and a responsive frontend interface. Here’s a breakdown of the components:
 
@@ -20,7 +20,7 @@ Key Highlights:
 	•	The user interface was developed using HTML, CSS, and JavaScript.
 	•	Users can input features like square footage, number of bedrooms, etc., and receive real-time price predictions via the Flask API.
 
-#Technologies and Tools Used:
+Technologies and Tools Used:
 
 	•	Python for backend development and model building.
 	•	NumPy and Pandas for data cleaning and preprocessing.
